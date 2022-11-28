@@ -3,12 +3,7 @@ const contentToCache = [
     'index.html',
     'app.js',
     'style.css',
-    'fonts/graduate.eot',
-    'fonts/graduate.ttf',
-    'fonts/graduate.woff',
-    'favicon.ico',
-    'img/js13kgames.png',
-    'img/bg.png',
+    'icons/favicon.ico',
     'icons/icon-32.png',
     'icons/icon-64.png',
     'icons/icon-96.png',
@@ -16,7 +11,8 @@ const contentToCache = [
     'icons/icon-168.png',
     'icons/icon-192.png',
     'icons/icon-256.png',
-    'icons/icon-512.png'
+    'icons/icon-512.png',
+    'icons/maskable_icon.png'
 ];
 
 
